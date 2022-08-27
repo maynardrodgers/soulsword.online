@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0a7e09d.chunk.css",
+    "main.js": "/static/js/main.224a0c88.chunk.js",
+    "main.js.map": "/static/js/main.224a0c88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.42d40aa8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.42d40aa8.js.map",
+    "static/js/2.bd3af503.chunk.js": "/static/js/2.bd3af503.chunk.js",
+    "static/js/2.bd3af503.chunk.js.map": "/static/js/2.bd3af503.chunk.js.map",
+    "static/js/3.bd6b0c7c.chunk.js": "/static/js/3.bd6b0c7c.chunk.js",
+    "static/js/3.bd6b0c7c.chunk.js.map": "/static/js/3.bd6b0c7c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d0a7e09d.chunk.css.map": "/static/css/main.d0a7e09d.chunk.css.map",
+    "static/js/2.bd3af503.chunk.js.LICENSE.txt": "/static/js/2.bd3af503.chunk.js.LICENSE.txt",
+    "static/media/about.22d9cbd1.png": "/static/media/about.22d9cbd1.png",
+    "static/media/archer-card.fac50829.png": "/static/media/archer-card.fac50829.png",
+    "static/media/armor1.8fd99d7e.png": "/static/media/armor1.8fd99d7e.png",
+    "static/media/bigknife.efffb507.png": "/static/media/bigknife.efffb507.png",
+    "static/media/bow.b86f7f4f.png": "/static/media/bow.b86f7f4f.png",
+    "static/media/card.720a18f8.png": "/static/media/card.720a18f8.png",
+    "static/media/gun.3251827a.png": "/static/media/gun.3251827a.png",
+    "static/media/header-right.8e298b0a.png": "/static/media/header-right.8e298b0a.png",
+    "static/media/helmet3.a495a4d4.png": "/static/media/helmet3.a495a4d4.png",
+    "static/media/magician-card.ca27a4fe.png": "/static/media/magician-card.ca27a4fe.png",
+    "static/media/magicvase.d3b443b4.png": "/static/media/magicvase.d3b443b4.png",
+    "static/media/mount.ddd51c00.jpg": "/static/media/mount.ddd51c00.jpg",
+    "static/media/sceptre.b2ac553f.png": "/static/media/sceptre.b2ac553f.png",
+    "static/media/sword.cdf41b94.png": "/static/media/sword.cdf41b94.png",
+    "static/media/tessen.7dccf027.png": "/static/media/tessen.7dccf027.png",
+    "static/media/token.6f39484b.png": "/static/media/token.6f39484b.png",
+    "static/media/tokenomics_back.441e8152.png": "/static/media/tokenomics_back.441e8152.png",
+    "static/media/warrior-card.74307c85.png": "/static/media/warrior-card.74307c85.png",
+    "static/media/wing3.1adce522.png": "/static/media/wing3.1adce522.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42d40aa8.js",
+    "static/js/2.bd3af503.chunk.js",
+    "static/css/main.d0a7e09d.chunk.css",
+    "static/js/main.224a0c88.chunk.js"
+  ]
+}
